@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Jin Wang 
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Jin
+last_name: Wang
 
 # Status emoji
 status:
@@ -14,21 +14,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: CS Master Student @ ICT, CAS
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Institute of Computing Technology, Chinese Academy of Sciences
+    url: https://www.ict.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computer vision and machine learning.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Explainable Artificial Intelligence (XAI)
+  - Image Generation
+  - Forgery Detection
 
 # Education to show in About widget
 education:
