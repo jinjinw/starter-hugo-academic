@@ -71,13 +71,13 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Intern
-company: Megvii Technology
-company_url: 'https://www.megvii.com/'
-company_logo: org-gc 
-location: Beijing
-date_start: '2021-10-01'
-date_end:
-description: Investigating the area of deepfake detection for improving models' generalization to unseen and compressed forgeries (One of the works was accepted to ECCV2022).
+        company: Megvii Technology
+        company_url: 'https://www.megvii.com/'
+        company_logo: org-gc 
+        location: Beijing
+        date_start: '2021-10-01'
+        date_end: ''
+        description: Investigating the area of deepfake detection for improving models' generalization to unseen and compressed forgeries (One of the works was accepted to ECCV2022).
         - title: MEng in Electronic and Information Engineering
           company: Institute of Computing Technology, Chinese Academy of Sciences
           company_url: 'http://www.ict.ac.cn/'
