@@ -81,7 +81,7 @@ sections:
         - title: MEng in Electronic and Information Engineering
           company: Institute of Computing Technology, Chinese Academy of Sciences
           company_url: 'http://www.ict.ac.cn/'
-company_logo: org-gc
+          company_logo: org-gc
           location: Beijing
           date_start: '2020-09-01'
           date_end: '2023-06-30'
