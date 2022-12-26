@@ -22,7 +22,7 @@ author_notes:
   - 'Corresponding author'
 
 
-date: '2013-07-01T00:00:00Z'
+date: '2022-06-28T00:00:00Z'
 doi: 'https://doi.org/10.1609/aaai.v36i2.20015 '
 
 # Schedule page publish date (NOT publication's date).
