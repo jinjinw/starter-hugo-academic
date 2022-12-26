@@ -77,7 +77,7 @@ company_logo: org-gc
 location: Beijing
 date_start: '2021-10-01'
 date_end:
-description: Investigating the area of deepfake detection for improving models' generalization to unseen and compressed forgeries. One of the works was accepted to ECCV2022.
+description: Investigating the area of deepfake detection for improving models' generalization to unseen and compressed forgeries (One of the works was accepted to ECCV2022).
         - title: MEng in Electronic and Information Engineering
           company: Institute of Computing Technology, Chinese Academy of Sciences
           company_url: 'http://www.ict.ac.cn/'
