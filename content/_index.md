@@ -73,21 +73,22 @@ sections:
 	    - title: Intern
           company: Megvii Technology
 		  company_url: https://www.megvii.com/
-          company_logo: 
+          company_logo: org-gc 
           location: Beijing
           date_start: '2021-10-01'
           date_end:
 		  description: Investigating the area of deepfake detection for improving models' generalization to unseen and compressed forgeries. One of the works was accepted to ECCV2022.
         - title: MEng in Electronic and Information Engineering
           company: Institute of Computing Technology, Chinese Academy of Sciences
-          company_logo: org-gc
+          company_url: http://www.ict.ac.cn/
+		  company_logo: org-gc
           location: Beijing
           date_start: '2020-09-01'
           date_end: '2023-06-30'
 		  description: Exploring the area of Explainable Artificial Intelligence (XAI) and image generation.
         - title: BEng in Digital Media Technology
           company: Dalian University of Technology
-          company_url:
+          company_url: https://www.dlut.edu.cn/
           company_logo: org-x
           location: Dalian, Liaoning
           date_start: '2016-09-01'
