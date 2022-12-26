@@ -73,7 +73,7 @@ sections:
         - title: Intern
           company: Megvii Technology
           company_url: 'https://www.megvii.com/'
-          company_logo: org-gc 
+          company_logo: megvii 
           location: Beijing
           date_start: '2021-10-01'
           date_end: ''
@@ -81,7 +81,7 @@ sections:
         - title: MEng in Electronic and Information Engineering
           company: Institute of Computing Technology, Chinese Academy of Sciences
           company_url: 'http://www.ict.ac.cn/'
-          company_logo: org-gc
+          company_logo: ict
           location: Beijing
           date_start: '2020-09-01'
           date_end: '2023-06-30'
@@ -89,7 +89,7 @@ sections:
         - title: BEng in Digital Media Technology
           company: Dalian University of Technology
           company_url: 'https://www.dlut.edu.cn/'
-          company_logo: org-x
+          company_logo: dlut
           location: Dalian, Liaoning
           date_start: '2016-09-01'
           date_end: '2020-06-12'
