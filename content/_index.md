@@ -61,7 +61,7 @@ sections:
   - block: experience
     content:
       title: Experience
-	    # Date format for experience
+      # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       # Experiences.
@@ -85,7 +85,7 @@ company_logo: org-gc
           location: Beijing
           date_start: '2020-09-01'
           date_end: '2023-06-30'
-		  description: Exploring the area of Explainable Artificial Intelligence (XAI) and image generation.
+          description: Exploring the area of Explainable Artificial Intelligence (XAI) and image generation.
         - title: BEng in Digital Media Technology
           company: Dalian University of Technology
           company_url: 'https://www.dlut.edu.cn/'
