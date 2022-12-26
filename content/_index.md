@@ -84,7 +84,7 @@ sections:
           company_logo: ict
           location: Beijing
           date_start: '2020-09-01'
-          date_end: '2023-06-30'
+          date_end: ''
           description: Exploring the area of Explainable Artificial Intelligence (XAI) and image generation.
         - title: BEng in Digital Media Technology
           company: Dalian University of Technology
