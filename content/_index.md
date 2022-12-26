@@ -72,6 +72,7 @@ sections:
       items:
 	    - title: Intern
           company: Megvii Technology
+		  company_url: https://www.megvii.com/
           company_logo: 
           location: Beijing
           date_start: '2021-10-01'
