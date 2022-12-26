@@ -7,8 +7,8 @@ first_name: Jin
 last_name: Wang
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,15 +33,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Electronic and Information Engineering
+      institution: Institute of Computing Technology, Chinese Academy of Sciences
+      year: 2020
+    - course: BEng in Digital Media Technology
+      institution: Dalian University of Technology
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,11 +71,11 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'wangjin20g@ict.ac.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Jin Wang is currently a 3rd-year master student at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). Previously, he received his Bachelor degree from Dalian University of Technology (DLUT). His current research interest lies in Explainable Artificial Intelligence (XAI), image generation and forgery detection.
+Jin Wang is currently a 3rd-year master student at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). Previously, he received his Bachelor degree from Dalian University of Technology (DLUT). His current research interests lie in Explainable Artificial Intelligence (XAI), image generation and forgery detection.
 {style="text-align: justify;"}
